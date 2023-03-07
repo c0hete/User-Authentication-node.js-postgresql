@@ -66,6 +66,8 @@ When a user clicks the "Logout" button, Passport destroys the session and logs t
 Error Handling
 
 The application uses the express-flash package to display flash messages for successful and failed actions. Error messages are also rendered on the registration and login pages if form validation fails.
+
+Credits
 This application was developed by José Alvarado for educational and programming practice purposes.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ESPAÑOL
@@ -136,6 +138,7 @@ Cuando un usuario hace clic en el botón "Salir", Passport destruye la sesión y
 Tratamiento de errores
 
 La aplicación utiliza el paquete express-flash para mostrar mensajes flash para acciones exitosas y fallidas. También se muestran mensajes de error en las páginas de registro e inicio de sesión si falla la validación del formulario.
-Créditos
 
+
+Créditos
 La aplicación fue desarrollada por José Alvarado con fines educativos y de práctica de programación. 
